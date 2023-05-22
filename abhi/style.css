@@ -1,0 +1,25 @@
+p{
+    color:aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    color:chocolate
+}
+.external{
+    color:crimson;
+    background-color: black
+}
+
+#change{
+    color: goldenrod
+}
+.external h3{
+    color:crimson;
+    background-color: wheat;
+}
+.position{
+    margin: left 150px;
+    margin-top: 52% ;
+    border: 2px solid grey;
+    padding-left: 20px;
+}
